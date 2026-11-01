@@ -1,0 +1,4 @@
+Model,Accuracy (%)
+Random Forest,85.23
+SGD Classifier,76.46
+SVC,78.46
